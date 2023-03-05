@@ -1,0 +1,119 @@
+
+
+a{
+    padding: 50px;
+    font-size: 30px;
+    color: white;
+    padding-left: 100px;
+    text-decoration:none
+}
+
+#logo{
+    width: 120px;
+    padding: 10px 10px 60px 10px;
+}
+#profile{
+    float: right;
+    height: 600px;
+    padding-bottom: 300px;
+    padding-right: 170px;
+}
+
+body{
+    background-color: #1C1B20;
+    height:100%;
+}
+.header {
+    display: flex; 
+    justify-content: center;
+}
+p { 
+    
+    color: white;
+    font-family: 'Mada';
+}
+h1 {
+    color: white;
+    padding-left: 300px;
+    line-height: .1;
+}
+p {
+    font-size: 33px;
+    padding-left: 300px;
+
+}
+
+.bolded{
+    font-weight:bold;
+}
+
+h1{
+    font-size: 45px;
+    padding-top: 100px;
+
+}
+
+#homeNAME{
+    color: #15FFAB;
+    padding-left: 350px;
+}
+
+#desc{
+    padding-left: 200px;
+    font-size: 25px;
+}
+
+#contact{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1em;
+    padding-top: 200px;
+    margin-left: 150px;
+
+}
+
+.contactImg{
+    width: 45%;
+    padding: 10px;
+}
+
+.fig{
+    color: white;
+    text-align: center;
+    margin-left: 2px;
+    padding-right: 20px;
+
+}
+
+#AA{
+margin-top: 150px;
+display: flex;
+justify-content: center;
+height: 350px;
+}
+
+#skills{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    padding-top: 0px;
+}
+
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;            /* Footer height */
+}
+
+.forFooter{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    text-align: center;
+    padding-left: 0px;
+
+    
+
+}
